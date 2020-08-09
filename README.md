@@ -20,7 +20,7 @@ I am looking to nuture my 3 great passions, Programming , Physics ⚛ and Arts.
 ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code_-007ACC?logo=visual-studio-code&style=for-the-badge)
 
 ## Other tools of trade
-![C#](https://img.shields.io/badge/-C#-239120?style=for-the-badge&logo=c-sharp)
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp)
 ## I also dabbled with
 
 ## Expanding my horizons
