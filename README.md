@@ -9,7 +9,7 @@ I am looking to nuture my 3 great passions, Programming , Physics ⚛ and Arts.
 * I my life I have done music 🎶, theater 🎭 and dance 🕺.
 
 
-##⚡ Technologies
+## ⚡ Technologies
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 
