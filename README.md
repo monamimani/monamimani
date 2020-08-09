@@ -14,33 +14,31 @@ I am looking to nuture my 3 great passions, Programming , Physics ⚛ and Arts.
 * I have a degree in physics engineering from the Polytechnic school of Montreal.
 * I my life I have done music 🎶, theater 🎭 and dance 🕺.
 
-## I work daily with
+## I work 🏢 daily with
 ![C++ Badge](https://img.shields.io/badge/-C++-00599C?&logo=C%2B%2B&style=for-the-badge)
+![DirectX Badge](https://img.shields.io/badge/-DirectX-gray?logo=&style=for-the-badge)
 ![Visual Studio Badge](https://img.shields.io/badge/-Visual_Studio_-5C2D91?logo=visual-studio&style=for-the-badge)
 ![Visual Studio Code Badge](https://img.shields.io/badge/-Visual_Studio_Code_-007ACC?logo=visual-studio-code&style=for-the-badge)
 ![Perforce Badge](https://img.shields.io/badge/-Perforce-gray?logo=&style=for-the-badge)
-![Windows Badge](https://img.shields.io/badge/-Windows-0078D6?logo=windows&style=for-the-badge)
-
-## Other tools of trade
-![C# Badge](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp)
-![Python Badge](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)
-
-## I also dabbled with
-![Javascript Badge](https://img.shields.io/badge/-Javascript-000000?style=for-the-badge&logo=javascript)
-![HTML5 Badge](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5)
-![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logoColor=&logo=css3)
-
-## Expanding my horizons
-
-## ⚡ Technologies
-
 ![Git Badge](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab Badge](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![Windows Badge](https://img.shields.io/badge/-Windows-0078D6?logo=windows&style=for-the-badge)
+
+## Other tools ⚒ of trade
+![Vulkan Badge](https://img.shields.io/badge/-Vulkan-AC162C?style=for-the-badge&logo=vulkan)
+![C# Badge](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp)
+![Python Badge](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)
 ![BitBucket Badge](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
-## Skills that I am working ⚒ on
+## I also dabbled 🧪 with
+![Javascript Badge](https://img.shields.io/badge/-Javascript-000000?style=for-the-badge&logo=javascript)
+![HTML5 Badge](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5)
+![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 
+## Expanding 🌱 my horizons
+![TensorFlow Badge](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![WebAssembly Badge](https://img.shields.io/badge/-WebAssembly-654FF0?style=for-the-badge&logo=webassembly)
 
 <!--
 Here are some ideas to get you started:
