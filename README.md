@@ -17,7 +17,7 @@ I am looking to nuture my 3 great passions, Programming , Physics ⚛ and Arts.
 
 ## ⚡ Technologies
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=&style=for-the-badge&logo=c)
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
