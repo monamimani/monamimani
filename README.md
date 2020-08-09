@@ -19,7 +19,7 @@ I am looking to nuture my 3 great passions, Programming , Physics ⚛ and Arts.
 ![Visual Studio Badge](https://img.shields.io/badge/-Visual_Studio_-5C2D91?logo=visual-studio&style=for-the-badge)
 ![Visual Studio Code Badge](https://img.shields.io/badge/-Visual_Studio_Code_-007ACC?logo=visual-studio-code&style=for-the-badge)
 ![Perforce Badge](https://img.shields.io/badge/-Perforce-0078D6?logo=&style=for-the-badge)
-![Windows Badge](https://img.shields.io/badge/-Windows-0078D6?logo=windows&style=for-the-badge)
+![Windows Badge](https://img.shields.io/badge/-Windows-?logo=windows&style=for-the-badge)
 
 ## Other tools of trade
 ![C# Badge](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp)
