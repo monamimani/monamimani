@@ -14,6 +14,8 @@ I am looking to nuture my 3 great passions, Programming , Physics ⚛ and Arts.
 * I have a degree in physics engineering from the Polytechnic school of Montreal.
 * I my life I have done music 🎶, theater 🎭 and dance 🕺.
 
+---
+
 ## I work 🏢 daily with
 ![C++ Badge](https://img.shields.io/badge/-C++-00599C?&logo=C%2B%2B&style=for-the-badge)
 ![DirectX Badge](https://img.shields.io/badge/-DirectX-gray?style=for-the-badge)
@@ -41,6 +43,7 @@ I am looking to nuture my 3 great passions, Programming , Physics ⚛ and Arts.
 ![TensorFlow Badge](https://img.shields.io/badge/-TensorFlow-000000?logo=tensorflow&style=for-the-badge)
 ![WebAssembly Badge](https://img.shields.io/badge/-WebAssembly-000000?logo=webassembly&style=for-the-badge)
 
+===
 <!--
 Here are some ideas to get you started:
 
