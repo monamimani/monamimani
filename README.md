@@ -2,7 +2,7 @@
 **monamimani/monamimani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
 
-## Hello 👋
+# Hello 👋
 [![Linkedin Badge](https://img.shields.io/badge/--0077B5?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/emmanuelthivierge)
 [![My website Badge](https://img.shields.io/badge/-Website-1b1f22?style=flat-square)](https://emmanuelthivierge.com)
 
@@ -14,7 +14,7 @@ I am looking to nuture my 3 great passions, Programming , Physics ⚛ and Arts.
 * I have a degree in physics engineering from the Polytechnic school of Montreal.
 * I my life I have done music 🎶, theater 🎭 and dance 🕺.
 
-### I work 🏢 daily with
+## I work 🏢 daily with
 ![C++ Badge](https://img.shields.io/badge/-C++-00599C?&logo=C%2B%2B&style=for-the-badge)
 ![DirectX Badge](https://img.shields.io/badge/-DirectX-gray?style=for-the-badge)
 ![Visual Studio Badge](https://img.shields.io/badge/-Visual_Studio_-5C2D91?logo=visual-studio&style=for-the-badge)
@@ -25,18 +25,18 @@ I am looking to nuture my 3 great passions, Programming , Physics ⚛ and Arts.
 ![GitLab Badge](https://img.shields.io/badge/-GitLab-FCA121?logo=gitlab&style=for-the-badge)
 ![Windows Badge](https://img.shields.io/badge/-Windows-0078D6?logo=windows&style=for-the-badge)
 
-### Other tools ⚒ of trade
+## Other tools ⚒ of trade
 ![Vulkan Badge](https://img.shields.io/badge/-Vulkan-AC162C?style=for-the-badge&logo=vulkan)
 ![C# Badge](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp)
 ![Python Badge](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)
 ![BitBucket Badge](https://img.shields.io/badge/-BitBucket-0052CC?&logo=bitbucket&style=for-the-badge)
 
-### I also dabbled 🧪 with
+## I also dabbled 🧪 with
 ![Javascript Badge](https://img.shields.io/badge/-Javascript-000000?style=for-the-badge&logo=javascript)
 ![HTML5 Badge](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5)
 ![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 
-### Expanding 🌱 my horizons
+## Expanding 🌱 my horizons
 ![TensorFlow Badge](https://img.shields.io/badge/-TensorFlow-000000?style=for-the-badge&logo=tensorflow)
 ![WebAssembly Badge](https://img.shields.io/badge/-WebAssembly-000000?style=for-the-badge&logo=webassembly)
 
