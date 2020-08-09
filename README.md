@@ -3,7 +3,8 @@
 --->
 
 ### Hello 👋
-
+[![Linkedin](https://img.shields.io/website?color=0077B5&logo=linked&style=flat-square)](https://www.linkedin.com/in/emmanuelthivierge/)
+[![My website](https://img.shields.io/website?color=0ab9e6&style=flat-square)](https://emmanuelthivierge.com)
 My name is Emmanuel and as a programmer, I provide coding expertise for your creative challenges...
 I am currently located in Montreal but I am looking for remote 🌏 part time contracts.
 
@@ -13,9 +14,9 @@ I am looking to nuture my 3 great passions, Programming , Physics ⚛ and Arts.
 * I my life I have done music 🎶, theater 🎭 and dance 🕺.
 
 ## I work daily with
-![C++](https://img.shields.io/badge/-C++ -00599C.svg?style=for-the-badge&logo=cplusplus)
-![Visual Studio](https://img.shields.io/badge/-Visual Studio -%5C2D91?&style=for-the-badge&logo=visual-studio)
-![Visual Studio Code](https://img.shields.io/badge/-Visual Studio Code -%007ACC?&style=for-the-badge&logo=visual-studio-code)
+![C++](https://img.shields.io/badge/C++_?color=00599C&style=for-the-badge&logo=cplusplus)
+![Visual Studio](https://img.shields.io/badge/-Visual_Studio_?color=5C2D91&logo=visual-studio&style=for-the-badge)
+![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code_?color=007ACC&logo=visual-studio-code&style=for-the-badge)
 
 ## Other tools of trade
 ![C#](https://img.shields.io/badge/--239120?style=for-the-badge&logo=c-sharp)
