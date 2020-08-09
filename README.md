@@ -37,8 +37,9 @@ I am looking to nuture my 3 great passions, Programming , Physics ⚛ and Arts.
 ![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 
 ## Expanding 🌱 my horizons
-![TensorFlow Badge](https://img.shields.io/badge/-TensorFlow-000000?style=for-the-badge&logo=tensorflow)
-![WebAssembly Badge](https://img.shields.io/badge/-WebAssembly-000000?style=for-the-badge&logo=webassembly)
+![Unreal Badge](https://img.shields.io/badge/-Unreal Engine-313131?logo=unreal-engine&style=for-the-badge)
+![TensorFlow Badge](https://img.shields.io/badge/-TensorFlow-000000?logo=tensorflow&style=for-the-badge)
+![WebAssembly Badge](https://img.shields.io/badge/-WebAssembly-000000?logo=webassembly&style=for-the-badge)
 
 <!--
 Here are some ideas to get you started:
