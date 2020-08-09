@@ -5,10 +5,7 @@
 ### Hello 👋
 [![Linkedin Badge](https://img.shields.io/badge/--0077B5?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/emmanuelthivierge)
 
-[![Linkedin Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moshfiqrony/)](https://www.linkedin.com/in/moshfiqrony/)
-
-
-![My website Badge](https://img.shields.io/static/v1?label=Website&color=0ab9e6&style=flat-square)(https://emmanuelthivierge.com)
+[![My website Badge](https://img.shields.io/static/v1?label=Website&color=0ab9e6&style=flat-square)](https://emmanuelthivierge.com)
 My name is Emmanuel and as a programmer, I provide coding expertise for your creative challenges...
 I am currently located in Montreal but I am looking for remote 🌏 part time contracts.
 
