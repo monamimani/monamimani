@@ -22,7 +22,7 @@ I am looking to nuture my 3 great passions, Programming , Physics ⚛ and Arts.
 ![Perforce Badge](https://img.shields.io/badge/-Perforce-gray?style=for-the-badge)
 ![Git Badge](https://img.shields.io/badge/-Git-000000?logo=git&style=for-the-badge)
 ![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?logo=github&style=for-the-badge)
-![GitLab Badge](https://img.shields.io/badge/-GitLab-FCA121?logo=gitlab&style=for-the-badge)
+![GitLab Badge](https://img.shields.io/badge/-GitLab-000000?logo=gitlab&style=for-the-badge)
 ![Windows Badge](https://img.shields.io/badge/-Windows-0078D6?logo=windows&style=for-the-badge)
 
 ## Other tools ⚒ of trade
