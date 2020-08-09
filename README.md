@@ -8,6 +8,12 @@ I am looking to nuture my 3 great passions, Programming , Physics ⚛ and Arts.
 * I have a degree in physics engineering from the Polytechnic school of Montreal.
 * I my life I have done music 🎶, theater 🎭 and dance 🕺.
 
+## My tools of trade
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+
+## I also dabbled with
+
+## Expanding my horizons
 
 ## ⚡ Technologies
 
@@ -18,8 +24,10 @@ I am looking to nuture my 3 great passions, Programming , Physics ⚛ and Arts.
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
-## ⚒
+## Skills that I am working ⚒ on
 
+## You can find me around the web 🌐
+[![Reddit Badge](https://img.shields.io/badge/-u/daftdey-FF4500?style=flat&logo=Reddit&logoColor=white)](https://www.linkedin.com/in/emmanuelthivierge/ "See my CV on LinkedIn")
 <!--
 **monamimani/monamimani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
