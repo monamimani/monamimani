@@ -3,8 +3,10 @@
 --->
 
 ### Hello 👋
-![Linkedin](https://img.shields.io/static/v1?color=0077B5&logo=linked&style=flat-square)](https://www.linkedin.com/in/emmanuelthivierge)
-![My website](https://img.shields.io/static/v1?label=Website&color=0ab9e6&style=flat-square)](https://emmanuelthivierge.com)
+![Linkedin](https://img.shields.io/badge/left-right-0077B5?logo=linkedin&style=flat-square&link=https://www.linkedin.com/in/emmanuelthivierge//right)
+
+
+![My website](https://img.shields.io/static/v1?label=Website&color=0ab9e6&style=flat-square)(https://emmanuelthivierge.com)
 My name is Emmanuel and as a programmer, I provide coding expertise for your creative challenges...
 I am currently located in Montreal but I am looking for remote 🌏 part time contracts.
 
