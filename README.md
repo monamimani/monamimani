@@ -43,7 +43,7 @@ I am looking to nuture my 3 great passions, Programming , Physics ⚛ and Arts.
 ![TensorFlow Badge](https://img.shields.io/badge/-TensorFlow-000000?logo=tensorflow&style=for-the-badge)
 ![WebAssembly Badge](https://img.shields.io/badge/-WebAssembly-000000?logo=webassembly&style=for-the-badge)
 
-===
+---
 <!--
 Here are some ideas to get you started:
 
