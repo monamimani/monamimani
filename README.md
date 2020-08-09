@@ -3,7 +3,7 @@
 --->
 
 ### Hello 👋
-![Linkedin Badge](https://img.shields.io/badge/left-right-0077B5?logo=linkedin&style=social&link=https://www.linkedin.com/in/emmanuelthivierge//right)
+[![Linkedin Badge](https://img.shields.io/badge/left-right-0077B5?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/emmanuelthivierge)
 
 [![Linkedin Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moshfiqrony/)](https://www.linkedin.com/in/moshfiqrony/)
 
