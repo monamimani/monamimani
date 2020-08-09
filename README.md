@@ -13,9 +13,9 @@ I am looking to nuture my 3 great passions, Programming , Physics ⚛ and Arts.
 * I my life I have done music 🎶, theater 🎭 and dance 🕺.
 
 ## I work daily with
-![C++](https://img.shields.io/badge/--00599C.svg?style=for-the-badge&logo=cplusplus)
-![Visual Studio](https://img.shields.io/badge/--%5C2D91?&style=for-the-badge&logo=visual-studio)
-![Visual Studio Code](https://img.shields.io/badge/--%007ACC?&style=for-the-badge&logo=visual-studio-code)
+![C++](https://img.shields.io/badge/-C++ -00599C.svg?style=for-the-badge&logo=cplusplus)
+![Visual Studio](https://img.shields.io/badge/-Visual Studio -%5C2D91?&style=for-the-badge&logo=visual-studio)
+![Visual Studio Code](https://img.shields.io/badge/-Visual Studio Code -%007ACC?&style=for-the-badge&logo=visual-studio-code)
 
 ## Other tools of trade
 ![C#](https://img.shields.io/badge/--239120?style=for-the-badge&logo=c-sharp)
