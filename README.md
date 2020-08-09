@@ -15,28 +15,30 @@ I am looking to nuture my 3 great passions, Programming , Physics ⚛ and Arts.
 * I my life I have done music 🎶, theater 🎭 and dance 🕺.
 
 ## I work daily with
-![C++](https://img.shields.io/badge/-C++-00599C?&logo=C%2B%2Bstyle=for-the-badge)
-![Visual Studio](https://img.shields.io/badge/-Visual_Studio_-5C2D91?logo=visual-studio&style=for-the-badge)
-![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code_-007ACC?logo=visual-studio-code&style=for-the-badge)
+![C++ Badge](https://img.shields.io/badge/-C++-00599C?&logo=C%2B%2B&style=for-the-badge)
+![Visual Studio Badge](https://img.shields.io/badge/-Visual_Studio_-5C2D91?logo=visual-studio&style=for-the-badge)
+![Visual Studio Code Badge](https://img.shields.io/badge/-Visual_Studio_Code_-007ACC?logo=visual-studio-code&style=for-the-badge)
+![Perforce Badge](https://img.shields.io/badge/-Perforce-0078D6?logo=&style=for-the-badge)
+![Windows Badge](https://img.shields.io/badge/-Windows-0078D6?logo=windows&style=for-the-badge)
 
 ## Other tools of trade
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp)
+![C# Badge](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp)
+![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python)
 
 ## I also dabbled with
+![Javascript Badge](https://img.shields.io/badge/-Javascript-?style=for-the-badge&logo=javascript)
 
 ## Expanding my horizons
 
 ## ⚡ Technologies
 
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+![Git Badge](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab Badge](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![BitBucket Badge](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
 ## Skills that I am working ⚒ on
 
-## You can find me around the web 🌐
-[![Reddit Badge](https://img.shields.io/badge/-u/daftdey-FF4500?style=flat&logo=Reddit&logoColor=white)](https://www.linkedin.com/in/emmanuelthivierge/ "See my CV on LinkedIn")
 
 <!--
 Here are some ideas to get you started:
