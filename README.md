@@ -8,6 +8,7 @@ I am looking to nuture my 3 great passions, Programming , Physics ⚛ and Arts.
 * I have a degree in physics engineering from the Polytechnic school of Montreal.
 * I my life I have done music 🎶, theater 🎭 and dance 🕺.
 
+
 ##⚡ Technologies
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
