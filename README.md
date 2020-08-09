@@ -5,7 +5,7 @@
 ### Hello 👋
 ![Linkedin Badge](https://img.shields.io/badge/left-right-0077B5?logo=linkedin&style=flat-square&link=https://www.linkedin.com/in/emmanuelthivierge//right)
 
-[![Linkedin Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moshfiqrony/)](https://www.linkedin.com/in/moshfiqrony/)
+[![Linkedin Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moshfiqrony/)](https://www.linkedin.com/in/moshfiqrony/)
 
 
 ![My website Badge](https://img.shields.io/static/v1?label=Website&color=0ab9e6&style=flat-square)(https://emmanuelthivierge.com)
