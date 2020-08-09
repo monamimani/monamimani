@@ -27,6 +27,8 @@ I am looking to nuture my 3 great passions, Programming , Physics ⚛ and Arts.
 
 ## I also dabbled with
 ![Javascript Badge](https://img.shields.io/badge/-Javascript-000000?style=for-the-badge&logo=javascript)
+![HTML5 Badge](https://img.shields.io/badge/-Javascript-E34F26?style=for-the-badge&logo=html5)
+![CSS3 Badge](https://img.shields.io/badge/-Javascript-1572B6?style=for-the-badge&logo=css3)
 
 ## Expanding my horizons
 
