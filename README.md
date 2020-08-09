@@ -1,3 +1,7 @@
+<!--
+**monamimani/monamimani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--->
+
 ### Hello 👋
 
 My name is Emmanuel and as a programmer, I provide coding expertise for your creative challenges...
@@ -9,7 +13,8 @@ I am looking to nuture my 3 great passions, Programming , Physics ⚛ and Arts.
 * I my life I have done music 🎶, theater 🎭 and dance 🕺.
 
 ## My tools of trade
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![C/C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![Hello](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 ## I also dabbled with
 
@@ -28,9 +33,8 @@ I am looking to nuture my 3 great passions, Programming , Physics ⚛ and Arts.
 
 ## You can find me around the web 🌐
 [![Reddit Badge](https://img.shields.io/badge/-u/daftdey-FF4500?style=flat&logo=Reddit&logoColor=white)](https://www.linkedin.com/in/emmanuelthivierge/ "See my CV on LinkedIn")
-<!--
-**monamimani/monamimani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
