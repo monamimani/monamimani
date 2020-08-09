@@ -15,19 +15,17 @@ I am looking to nuture my 3 great passions, Programming , Physics ⚛ and Arts.
 * I my life I have done music 🎶, theater 🎭 and dance 🕺.
 
 ## I work daily with
-![C++](https://img.shields.io/badge/--00599C?style=for-the-badge&logo=C%2B%2B)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=C%2B%2B)
 ![Visual Studio](https://img.shields.io/badge/-Visual_Studio_-5C2D91?logo=visual-studio&style=for-the-badge)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code_-007ACC?logo=visual-studio-code&style=for-the-badge)
 
 ## Other tools of trade
-![C#](https://img.shields.io/badge/--239120?style=for-the-badge&logo=c-sharp)
+![C#](https://img.shields.io/badge/-C#-239120?style=for-the-badge&logo=c-sharp)
 ## I also dabbled with
 
 ## Expanding my horizons
 
 ## ⚡ Technologies
-
-![C++](https://img.shields.io/badge/-C++-00599C?style=&style=for-the-badge&logo=c)
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
