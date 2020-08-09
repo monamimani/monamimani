@@ -18,7 +18,7 @@ I am looking to nuture my 3 great passions, Programming , Physics ⚛ and Arts.
 ![C++ Badge](https://img.shields.io/badge/-C++-00599C?&logo=C%2B%2B&style=for-the-badge)
 ![Visual Studio Badge](https://img.shields.io/badge/-Visual_Studio_-5C2D91?logo=visual-studio&style=for-the-badge)
 ![Visual Studio Code Badge](https://img.shields.io/badge/-Visual_Studio_Code_-007ACC?logo=visual-studio-code&style=for-the-badge)
-![Perforce Badge](https://img.shields.io/badge/-Perforce-0078D6?logo=&style=for-the-badge)
+![Perforce Badge](https://img.shields.io/badge/-Perforce-gray?logo=&style=for-the-badge)
 ![Windows Badge](https://img.shields.io/badge/-Windows-0078D6?logo=windows&style=for-the-badge)
 
 ## Other tools of trade
@@ -27,8 +27,8 @@ I am looking to nuture my 3 great passions, Programming , Physics ⚛ and Arts.
 
 ## I also dabbled with
 ![Javascript Badge](https://img.shields.io/badge/-Javascript-000000?style=for-the-badge&logo=javascript)
-![HTML5 Badge](https://img.shields.io/badge/-Javascript-E34F26?style=for-the-badge&logo=html5)
-![CSS3 Badge](https://img.shields.io/badge/-Javascript-1572B6?style=for-the-badge&logo=css3)
+![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 
 ## Expanding my horizons
 
