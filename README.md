@@ -6,13 +6,19 @@
 [![Linkedin Badge](https://img.shields.io/badge/--0077B5?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/emmanuelthivierge)
 [![My website Badge](https://img.shields.io/badge/-Website-1b1f22?style=flat-square)](https://emmanuelthivierge.com)
 
-My name is Emmanuel and as a programmer, I provide coding expertise for your creative challenges...
-I am currently located in Montreal but I am looking for remote 🌏 part time contracts.
+Remote C++ Software Contractor ⁜ Unreal developer ⁜ Real-time, interactive, immersive software in new media
 
-I am looking to nuture my 3 great passions, **Programming** , **Physics** ⚛ and **Arts**. 
-* As a programmer I have tackled the jobs of *3d*, *generalist* and *engine* programmer.
-* I have a degree in *physics engineering* from the Polytechnic school of Montreal.
-* I my life I have done *music* 🎶, *theater* 🎭 and *dance* 🕺.
+---
+
+ I am looking for C++ freelance remote 🌏 contracts in new media, interactive experiences and immersive environments.
+
+⪦ Available as a C++ software contractor, I am providing my expertise to help you bring to the world your new media projects with Unreal or proprietary engines.
+
+⪦ Having 12+ years of experience in real-time interactive software development and a profound interest in the *fusion* of **arts**, **technologies** and **physics**, I strive to find beautiful and efficient solutions to novel experiences, immersive installations and projects in new media. Acquiring new knowledge and problem solving by abiding by modern and proven technics is my spark of joy.
+
+⪦ Real-world new media projects that I participated in are for example a 400ft guitar-shaped hotel mapped with led and an interactive immersive video wall installation in an American airport.
+
+⪦ As a balanced human being, besides health and wellness, the 4 aspects that I keep exploring thorough my life are new technologies, arts (*dance* 🕺 and *theater* 🎭), physics and human nature. To figure out how all those disparate things mesh into my life I would be happy to get to know you better.
 
 ---
 
