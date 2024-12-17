@@ -11,7 +11,7 @@
 >[!IMPORTANT]
 > ⪧ I am seeking remote 🏡 or contract 📝 work as a C++ programmer 💻 with a focus on the Unreal Engine 🎮 in video games 🕹️ or interactive real-time multimedia applications/installations/environments 🌐. ⪦
 
-<img src="/assets/images/night code.gif" alt="Image of a programmer coding at night" width="256" align=right />
+<img src="/assets/images/night code.gif" alt="Image of a programmer coding at night" width="196" align=right />
 <p>
 With a robust background spanning 12 years in video games 🎮 and interactive software development 💻, I have a well-established expertise in both Unreal and proprietary engines ⚙️. My career is fueled by a passion for blending art 🎨, technology 💻, and physics ⚛️, where I am dedicated to crafting elegant and efficient solutions ✨. 
     
