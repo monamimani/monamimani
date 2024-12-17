@@ -65,10 +65,10 @@ This keeps my problem-solving skills sharp 🧠, allowing me to consistently off
 ---
 <!--
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
-https://github.com/daria-stanilevici/daria-stanilevici/blob/main/README.md
+
 # ***⁜ Hello 👋 I'm Mani ⁜***
 Inspiration
-
+https://github.com/daria-stanilevici/daria-stanilevici/blob/main/README.md
 https://github.com/MarieLynneBlock
 
 Here are some ideas to get you started:
