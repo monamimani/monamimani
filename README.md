@@ -1,10 +1,8 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Serif+4&weight=600&size=27&duration=4500&pause=500&color=3B5292&vCenter=true&width=435&lines=%E2%81%9C+Hello+%F0%9F%91%8B+I'm+Mani+%E2%81%9C;3D+%26+Engine+C%2B%2B+Programmer)](https://github.com/monamimani/)
-
-[![Linkedin Badge](https://img.shields.io/badge/-linkedIn-000000?logo=linkedin&logoColor=0A66C2&style=for-the-badge)](https://www.linkedin.com/in/emmanuelthivierge) | [![My website Badge](https://img.shields.io/badge/-Website-000000?logo=googlechrome&style=for-the-badge)](https://emmanuelthivierge.com)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Serif+4&weight=600&size=27&duration=4500&pause=500&color=3B5292&vCenter=true&width=435&lines=%E2%81%9C+Hello+%F0%9F%91%8B+I'm+Mani+%E2%81%9C;3D+%26+Engine+C%2B%2B+Programmer)](https://github.com/monamimani)
+[![Linkedin Badge](https://img.shields.io/badge/-linkedIn-000000?logo=linkedin&logoColor=0A66C2&style=for-the-badge)](https://www.linkedin.com/in/emmanuelthivierge) &nbsp; [![My website Badge](https://img.shields.io/badge/-Website-000000?logo=googlechrome&style=for-the-badge)](https://emmanuelthivierge.com)
 
 > 👨‍💻 Dedicated 3D & Engine C++ Programmer ⁜ Unreal Engine ⁜ Remote 🌏 ⁜ Specialized in Video Games 🎮 & Interactive Multimedia.
-
 
 ---
 
